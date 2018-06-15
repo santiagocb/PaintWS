@@ -1,5 +1,5 @@
-com/udea/tablero/Coordinate.class
 com/udea/tablero/FigureDecoder.class
+com/udea/tablero/Coordinate.class
 com/udea/tablero/FigureEncoder.class
-com/udea/tablero/MyWhiteboard.class
 com/udea/tablero/Figure.class
+com/udea/tablero/MyWhiteboard.class

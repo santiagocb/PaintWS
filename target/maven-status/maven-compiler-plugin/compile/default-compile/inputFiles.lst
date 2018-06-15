@@ -1,5 +1,5 @@
-/home/santiago/NetBeansProjects/Paint/src/main/java/com/udea/paint/Coordinate.java
-/home/santiago/NetBeansProjects/Paint/src/main/java/com/udea/paint/MyWhiteboard.java
-/home/santiago/NetBeansProjects/Paint/src/main/java/com/udea/paint/FigureEncoder.java
-/home/santiago/NetBeansProjects/Paint/src/main/java/com/udea/paint/FigureDecoder.java
-/home/santiago/NetBeansProjects/Paint/src/main/java/com/udea/paint/Figure.java
+/home/santiago/NetBeansProjects/PaintWS/src/main/java/com/udea/paint/Coordinate.java
+/home/santiago/NetBeansProjects/PaintWS/src/main/java/com/udea/paint/Figure.java
+/home/santiago/NetBeansProjects/PaintWS/src/main/java/com/udea/paint/FigureDecoder.java
+/home/santiago/NetBeansProjects/PaintWS/src/main/java/com/udea/paint/MyWhiteboard.java
+/home/santiago/NetBeansProjects/PaintWS/src/main/java/com/udea/paint/FigureEncoder.java
